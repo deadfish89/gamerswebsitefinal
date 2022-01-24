@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/gamerswebsitefinal/static/css/main.297eb669.chunk.css",
+    "main.js": "/gamerswebsitefinal/static/js/main.705919ae.chunk.js",
+    "main.js.map": "/gamerswebsitefinal/static/js/main.705919ae.chunk.js.map",
+    "runtime-main.js": "/gamerswebsitefinal/static/js/runtime-main.df9b8587.js",
+    "runtime-main.js.map": "/gamerswebsitefinal/static/js/runtime-main.df9b8587.js.map",
+    "static/css/2.55cf3caf.chunk.css": "/gamerswebsitefinal/static/css/2.55cf3caf.chunk.css",
+    "static/js/2.0fc5fe09.chunk.js": "/gamerswebsitefinal/static/js/2.0fc5fe09.chunk.js",
+    "static/js/2.0fc5fe09.chunk.js.map": "/gamerswebsitefinal/static/js/2.0fc5fe09.chunk.js.map",
+    "index.html": "/gamerswebsitefinal/index.html",
+    "precache-manifest.7fdaaec8a7f9443e2f03390acf798c48.js": "/gamerswebsitefinal/precache-manifest.7fdaaec8a7f9443e2f03390acf798c48.js",
+    "service-worker.js": "/gamerswebsitefinal/service-worker.js",
+    "static/css/2.55cf3caf.chunk.css.map": "/gamerswebsitefinal/static/css/2.55cf3caf.chunk.css.map",
+    "static/css/main.297eb669.chunk.css.map": "/gamerswebsitefinal/static/css/main.297eb669.chunk.css.map",
+    "static/js/2.0fc5fe09.chunk.js.LICENSE.txt": "/gamerswebsitefinal/static/js/2.0fc5fe09.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df9b8587.js",
+    "static/css/2.55cf3caf.chunk.css",
+    "static/js/2.0fc5fe09.chunk.js",
+    "static/css/main.297eb669.chunk.css",
+    "static/js/main.705919ae.chunk.js"
+  ]
+}
