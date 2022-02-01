@@ -1,25 +1,32 @@
 {
   "files": {
-    "main.css": "/gamerswebsitefinal/static/css/main.297eb669.chunk.css",
-    "main.js": "/gamerswebsitefinal/static/js/main.705919ae.chunk.js",
-    "main.js.map": "/gamerswebsitefinal/static/js/main.705919ae.chunk.js.map",
+    "main.css": "/gamerswebsitefinal/static/css/main.a0adba3e.chunk.css",
+    "main.js": "/gamerswebsitefinal/static/js/main.6c906613.chunk.js",
+    "main.js.map": "/gamerswebsitefinal/static/js/main.6c906613.chunk.js.map",
     "runtime-main.js": "/gamerswebsitefinal/static/js/runtime-main.df9b8587.js",
     "runtime-main.js.map": "/gamerswebsitefinal/static/js/runtime-main.df9b8587.js.map",
     "static/css/2.55cf3caf.chunk.css": "/gamerswebsitefinal/static/css/2.55cf3caf.chunk.css",
-    "static/js/2.0fc5fe09.chunk.js": "/gamerswebsitefinal/static/js/2.0fc5fe09.chunk.js",
-    "static/js/2.0fc5fe09.chunk.js.map": "/gamerswebsitefinal/static/js/2.0fc5fe09.chunk.js.map",
+    "static/js/2.390b3fbc.chunk.js": "/gamerswebsitefinal/static/js/2.390b3fbc.chunk.js",
+    "static/js/2.390b3fbc.chunk.js.map": "/gamerswebsitefinal/static/js/2.390b3fbc.chunk.js.map",
     "index.html": "/gamerswebsitefinal/index.html",
-    "precache-manifest.7fdaaec8a7f9443e2f03390acf798c48.js": "/gamerswebsitefinal/precache-manifest.7fdaaec8a7f9443e2f03390acf798c48.js",
+    "precache-manifest.ed7bd753fa746d3cbc94948c023cc487.js": "/gamerswebsitefinal/precache-manifest.ed7bd753fa746d3cbc94948c023cc487.js",
     "service-worker.js": "/gamerswebsitefinal/service-worker.js",
     "static/css/2.55cf3caf.chunk.css.map": "/gamerswebsitefinal/static/css/2.55cf3caf.chunk.css.map",
-    "static/css/main.297eb669.chunk.css.map": "/gamerswebsitefinal/static/css/main.297eb669.chunk.css.map",
-    "static/js/2.0fc5fe09.chunk.js.LICENSE.txt": "/gamerswebsitefinal/static/js/2.0fc5fe09.chunk.js.LICENSE.txt"
+    "static/css/main.a0adba3e.chunk.css.map": "/gamerswebsitefinal/static/css/main.a0adba3e.chunk.css.map",
+    "static/js/2.390b3fbc.chunk.js.LICENSE.txt": "/gamerswebsitefinal/static/js/2.390b3fbc.chunk.js.LICENSE.txt",
+    "static/media/foodbank.png": "/gamerswebsitefinal/static/media/foodbank.50405e86.png",
+    "static/media/App.css": "/gamerswebsitefinal/static/media/lan.00765bfb.jpg",
+    "static/media/league.jfif": "/gamerswebsitefinal/static/media/league.ee500721.jfif",
+    "static/media/pfp.png": "/gamerswebsitefinal/static/media/pfp.5a021ab9.png",
+    "static/media/suicide.jpg": "/gamerswebsitefinal/static/media/suicide.ce99d007.jpg",
+    "static/media/teamseas.png": "/gamerswebsitefinal/static/media/teamseas.c3e202c7.png",
+    "static/media/valorant.webp": "/gamerswebsitefinal/static/media/valorant.6731dbfb.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.df9b8587.js",
     "static/css/2.55cf3caf.chunk.css",
-    "static/js/2.0fc5fe09.chunk.js",
-    "static/css/main.297eb669.chunk.css",
-    "static/js/main.705919ae.chunk.js"
+    "static/js/2.390b3fbc.chunk.js",
+    "static/css/main.a0adba3e.chunk.css",
+    "static/js/main.6c906613.chunk.js"
   ]
 }
