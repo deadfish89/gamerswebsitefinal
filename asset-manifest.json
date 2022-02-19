@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/gamerswebsitefinal/static/css/main.a0adba3e.chunk.css",
-    "main.js": "/gamerswebsitefinal/static/js/main.b7690dfa.chunk.js",
-    "main.js.map": "/gamerswebsitefinal/static/js/main.b7690dfa.chunk.js.map",
+    "main.js": "/gamerswebsitefinal/static/js/main.33a6fdad.chunk.js",
+    "main.js.map": "/gamerswebsitefinal/static/js/main.33a6fdad.chunk.js.map",
     "runtime-main.js": "/gamerswebsitefinal/static/js/runtime-main.df9b8587.js",
     "runtime-main.js.map": "/gamerswebsitefinal/static/js/runtime-main.df9b8587.js.map",
     "static/css/2.55cf3caf.chunk.css": "/gamerswebsitefinal/static/css/2.55cf3caf.chunk.css",
     "static/js/2.bff79a78.chunk.js": "/gamerswebsitefinal/static/js/2.bff79a78.chunk.js",
     "static/js/2.bff79a78.chunk.js.map": "/gamerswebsitefinal/static/js/2.bff79a78.chunk.js.map",
     "index.html": "/gamerswebsitefinal/index.html",
-    "precache-manifest.b03c17825053d57bf12fc083c4c9db50.js": "/gamerswebsitefinal/precache-manifest.b03c17825053d57bf12fc083c4c9db50.js",
+    "precache-manifest.eba681d9bf7023c6ebb531c3bf65bab4.js": "/gamerswebsitefinal/precache-manifest.eba681d9bf7023c6ebb531c3bf65bab4.js",
     "service-worker.js": "/gamerswebsitefinal/service-worker.js",
     "static/css/2.55cf3caf.chunk.css.map": "/gamerswebsitefinal/static/css/2.55cf3caf.chunk.css.map",
     "static/css/main.a0adba3e.chunk.css.map": "/gamerswebsitefinal/static/css/main.a0adba3e.chunk.css.map",
@@ -31,6 +31,6 @@
     "static/css/2.55cf3caf.chunk.css",
     "static/js/2.bff79a78.chunk.js",
     "static/css/main.a0adba3e.chunk.css",
-    "static/js/main.b7690dfa.chunk.js"
+    "static/js/main.33a6fdad.chunk.js"
   ]
 }

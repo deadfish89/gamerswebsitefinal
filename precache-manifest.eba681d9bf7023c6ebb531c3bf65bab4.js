@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3f11564e0a26df5eba30d418b247989b",
+    "revision": "f0df69c71595f11e128384fa8d0aab02",
     "url": "/gamerswebsitefinal/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gamerswebsitefinal/static/css/2.55cf3caf.chunk.css"
   },
   {
-    "revision": "966ef07b6587c3b25ab7",
+    "revision": "472632a3ea802def60e9",
     "url": "/gamerswebsitefinal/static/css/main.a0adba3e.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gamerswebsitefinal/static/js/2.bff79a78.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "966ef07b6587c3b25ab7",
-    "url": "/gamerswebsitefinal/static/js/main.b7690dfa.chunk.js"
+    "revision": "472632a3ea802def60e9",
+    "url": "/gamerswebsitefinal/static/js/main.33a6fdad.chunk.js"
   },
   {
     "revision": "da47f755039111c0ef4c",
