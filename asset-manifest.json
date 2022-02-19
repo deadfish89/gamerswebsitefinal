@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "/gamerswebsitefinal/static/css/main.a0adba3e.chunk.css",
-    "main.js": "/gamerswebsitefinal/static/js/main.6c906613.chunk.js",
-    "main.js.map": "/gamerswebsitefinal/static/js/main.6c906613.chunk.js.map",
+    "main.js": "/gamerswebsitefinal/static/js/main.5fccf85b.chunk.js",
+    "main.js.map": "/gamerswebsitefinal/static/js/main.5fccf85b.chunk.js.map",
     "runtime-main.js": "/gamerswebsitefinal/static/js/runtime-main.df9b8587.js",
     "runtime-main.js.map": "/gamerswebsitefinal/static/js/runtime-main.df9b8587.js.map",
     "static/css/2.55cf3caf.chunk.css": "/gamerswebsitefinal/static/css/2.55cf3caf.chunk.css",
-    "static/js/2.390b3fbc.chunk.js": "/gamerswebsitefinal/static/js/2.390b3fbc.chunk.js",
-    "static/js/2.390b3fbc.chunk.js.map": "/gamerswebsitefinal/static/js/2.390b3fbc.chunk.js.map",
+    "static/js/2.eccacb89.chunk.js": "/gamerswebsitefinal/static/js/2.eccacb89.chunk.js",
+    "static/js/2.eccacb89.chunk.js.map": "/gamerswebsitefinal/static/js/2.eccacb89.chunk.js.map",
     "index.html": "/gamerswebsitefinal/index.html",
-    "precache-manifest.ed7bd753fa746d3cbc94948c023cc487.js": "/gamerswebsitefinal/precache-manifest.ed7bd753fa746d3cbc94948c023cc487.js",
+    "precache-manifest.0cbb85dcb83762b47caecb04ac38cdd2.js": "/gamerswebsitefinal/precache-manifest.0cbb85dcb83762b47caecb04ac38cdd2.js",
     "service-worker.js": "/gamerswebsitefinal/service-worker.js",
     "static/css/2.55cf3caf.chunk.css.map": "/gamerswebsitefinal/static/css/2.55cf3caf.chunk.css.map",
     "static/css/main.a0adba3e.chunk.css.map": "/gamerswebsitefinal/static/css/main.a0adba3e.chunk.css.map",
-    "static/js/2.390b3fbc.chunk.js.LICENSE.txt": "/gamerswebsitefinal/static/js/2.390b3fbc.chunk.js.LICENSE.txt",
+    "static/js/2.eccacb89.chunk.js.LICENSE.txt": "/gamerswebsitefinal/static/js/2.eccacb89.chunk.js.LICENSE.txt",
+    "static/media/danielzhangfull.png": "/gamerswebsitefinal/static/media/danielzhangfull.0894af66.png",
     "static/media/foodbank.png": "/gamerswebsitefinal/static/media/foodbank.50405e86.png",
     "static/media/App.css": "/gamerswebsitefinal/static/media/lan.00765bfb.jpg",
     "static/media/league.jfif": "/gamerswebsitefinal/static/media/league.ee500721.jfif",
@@ -25,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.df9b8587.js",
     "static/css/2.55cf3caf.chunk.css",
-    "static/js/2.390b3fbc.chunk.js",
+    "static/js/2.eccacb89.chunk.js",
     "static/css/main.a0adba3e.chunk.css",
-    "static/js/main.6c906613.chunk.js"
+    "static/js/main.5fccf85b.chunk.js"
   ]
 }
